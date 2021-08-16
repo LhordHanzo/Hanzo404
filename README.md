@@ -32,9 +32,9 @@ Just One Time, Run This:ðŸ‘‡
 
 
 
-$ pkg update
+$ pkg install update
 
-$ pkg upgrade
+$ pkg install upgrade
 
 $ pkg install python
 
