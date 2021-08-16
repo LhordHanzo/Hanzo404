@@ -28,7 +28,7 @@
 
 ```
 
-Just One Time, Run This:ðŸ‘‡
+Just One Time, Run This:👇
 
 
 
