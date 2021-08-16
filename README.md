@@ -1,8 +1,8 @@
 # Hanzo404
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hanzo404-dimgray?style=flat-square&logo=github)](https://www.facebook.com/profile.php?id=100054911553742)<br> [![Facebook](https://img.shields.io/badge/Facebook-+Dennis_Sinyangwe-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100054911553742)<br> ![Instagram](https://img.shields.io/badge/Instagram-Dennis_Sinyangwe-hotpink?style=flat-square&logo=instagram) <br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Dennis_Sinyangwe-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/+260970743628)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hanzo404-dimgray?style=flat-square&logo=github)](https://www.facebook.com/profile.php?id=100054911553742)<br> [![Facebook](https://img.shields.io/badge/Facebook-Dennis_Sinyangwe-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100054911553742)<br> ![Instagram](https://img.shields.io/badge/Instagram-Dennis_Sinyangwe-hotpink?style=flat-square&logo=instagram) <br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Dennis_Sinyangwe-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/+260970743628)
 
-<h1 align="center"> |Sir HanZo/DENNIS|</h1>
+<h1 align="center"> |HANZO•🍁•DENNIS|</h1>
 
 <h2 align="center">  CRACKING TOOL </h2>
 
