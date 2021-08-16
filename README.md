@@ -54,6 +54,8 @@ $ pkg install git
 
 $ git clone https://github.com/LhordHanzo/Hanzo404.git
 
+$ ls
+       
 $ cd Hanzo404
 
 $ python2 Hanzo404.py
