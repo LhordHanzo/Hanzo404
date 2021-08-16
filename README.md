@@ -1,6 +1,6 @@
 # Hanzo404
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hanzo404-dimgray?style=flat-square&logo=github)](https://www.facebook.com/profile.php?id=100054911553742)<br> [![Facebook](https://img.shields.io/badge/Facebook-+Dennis_Sinyangwe-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100054911553742)<br> [![Instagram](https://img.shields.io/badge/Instagram-Dennis_Sinyangwe-hotpink?style=flat-square&logo=instagram)](I'm on Instagram as @dennis_sinyangwe Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=1xbkroj44l0gh&utm_content=2gx3kse)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Dennis_Sinyangwe-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/+260970743628)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Hanzo404-dimgray?style=flat-square&logo=github)](https://www.facebook.com/profile.php?id=100054911553742)<br> [![Facebook](https://img.shields.io/badge/Facebook-+Dennis_Sinyangwe-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100054911553742)<br> ![Instagram](https://img.shields.io/badge/Instagram-Dennis_Sinyangwe-hotpink?style=flat-square&logo=instagram) <br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Dennis_Sinyangwe-deepgreen?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/+260970743628)
 
 <h1 align="center"> |Sir HanZo/DENNIS|</h1>
 
