@@ -42,13 +42,13 @@ $ pkg install python2
 
 $ pkg install python2 git nodejs 
 
-$ pip2 install requests
+$ pip install requests
 
-$ pip2 install mechanize
+$ pip install mechanize
 
-$ pip2 install lolcat
+$ pip install lolcat
 
-$ pip2 install bs4
+$ pip install bs4
 
 $ pkg install git
 
